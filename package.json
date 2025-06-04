@@ -3,6 +3,6 @@
     "mongodb": "^6.16.0"
   }
   "scripts": {
-  "dev": npm run build
+  "dev": "npm run build"
   }
 }
