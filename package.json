@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "mongodb": "^6.16.0"
-  }
+  },
   "scripts": {
   "dev": "npm run build"
   }
